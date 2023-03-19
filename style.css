@@ -120,6 +120,7 @@ header {
 .black_header {
   background-color: black;
   background-image: none;
+  height: 1000px;
 }
 nav {
   width: 327px;
@@ -267,7 +268,8 @@ footer {
 .footer_icon_menu svg {
   margin-bottom: 16px;
 }
-.footer_icon_menu p {
+.P {
+  margin-bottom:16px;
   font-size: 15px;
   color: #ffffff;
 }
